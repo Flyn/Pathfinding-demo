@@ -1,0 +1,24 @@
+This is a little pathfinding demo I make back in 2005 (judging from the files).
+
+You need allegro to build it.
+Allegro is a graphic library ala SDL, which released not very long ago a version 5 using hardware acceleration.
+This stuff obviously use the version 4 API.
+
+The package should be lib-allegro4.x on debian-like systems.
+
+
+
+Usage:
+
+Left click to set the starting point.
+
+Then Right click to set the target.
+
+Watch.
+
+Escape when you want to quit.
+
+
+
+You can modify test.bmp to experiment.
+Black zones are "walkable", white zones are not.
